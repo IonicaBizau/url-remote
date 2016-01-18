@@ -44,6 +44,10 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 ## Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
+## Related
+
+ - [`url-local`](https://github.com/IonicaBizau/url-local)–Checks if a given url is a local url or not.
+
 ## License
 
 [MIT][license] © [Ionică Bizău][website]
