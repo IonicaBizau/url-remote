@@ -1,0 +1,32 @@
+{
+  "name": "url-remote",
+  "version": "1.0.0",
+  "description": "Checks if a given url is a remote url or not.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {
+    "url-local": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/url-remote.git"
+  },
+  "keywords": [
+    "url",
+    "remote",
+    "utility"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/url-remote/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/url-remote#readme"
+}
