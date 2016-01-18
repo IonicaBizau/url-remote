@@ -11,3 +11,6 @@ console.log(isRemote("http://ionicabizau.net"));
 
 console.log(isRemote("git@github.com:IonicaBizau/url-local.git"));
 // true
+
+console.log(isRemote(42));
+// false
