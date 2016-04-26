@@ -1,14 +1,18 @@
+
 # url-remote [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/url-remote.svg)](https://www.npmjs.com/package/url-remote) [![Downloads](https://img.shields.io/npm/dt/url-remote.svg)](https://www.npmjs.com/package/url-remote) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Checks if a given url is a remote url or not.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save url-remote
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const isRemote = require("url-remote");
@@ -29,7 +33,8 @@ console.log(isRemote(42));
 // false
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `urlLocal(url)`
 urlRemote
@@ -41,17 +46,23 @@ Checks if a given url is a remote url or not.
 #### Return
 - **Boolean** `true` if the url is remote, `false` otherwise.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## Related
+
+ - [`lwipify`](https://github.com/IonicaBizau/lwipify#readme)—Convert images in lwip objects.
+## :sparkles: Related
 
  - [`url-local`](https://github.com/IonicaBizau/url-local)–Checks if a given url is a local url or not.
 
-## License
+
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
