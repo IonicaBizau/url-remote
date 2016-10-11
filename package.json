@@ -30,11 +30,9 @@
   },
   "homepage": "https://github.com/IonicaBizau/url-remote#readme",
   "blah": {
-    "related": {
-      "ul": [
-        "[`url-local`](https://github.com/IonicaBizau/url-local)–Checks if a given url is a local url or not."
-      ]
-    }
+    "related": [
+      "url-local"
+    ]
   },
   "files": [
     "bin/",
