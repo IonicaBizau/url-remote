@@ -1,14 +1,20 @@
-# url-remote [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/url-remote.svg)](https://www.npmjs.com/package/url-remote) [![Downloads](https://img.shields.io/npm/dt/url-remote.svg)](https://www.npmjs.com/package/url-remote) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+
+# url-remote
+
+ [![Patreon](https://img.shields.io/badge/Support%20me%20on-Patreon-%23e6461a.svg)][patreon] [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/url-remote.svg)](https://www.npmjs.com/package/url-remote) [![Downloads](https://img.shields.io/npm/dt/url-remote.svg)](https://www.npmjs.com/package/url-remote) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Checks if a given url is a remote url or not.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save url-remote
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const isRemote = require("url-remote");
@@ -29,7 +35,8 @@ console.log(isRemote(42));
 // false
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `urlLocal(url)`
 urlRemote
@@ -41,20 +48,38 @@ Checks if a given url is a remote url or not.
 #### Return
 - **Boolean** `true` if the url is remote, `false` otherwise.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+
+## :moneybag: Donations
+
+Another way to support the development of my open-source modules is
+to [set up a recurring donation, via Patreon][patreon]. :rocket:
+
+[PayPal donations][paypal-donations] are appreciated too! Each dollar helps.
+
+Thanks! :heart:
+
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## Related
 
- - [`url-local`](https://github.com/IonicaBizau/url-local)–Checks if a given url is a local url or not.
+ - [`lwipify`](https://github.com/IonicaBizau/lwipify#readme)—Convert images in lwip objects.
 
-## License
+## :sparkles: Related
+
+ - [`url-local`](https://github.com/IonicaBizau/url-local#readme)—Checks if a given url is a local url or not.
+
+
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
+[patreon]: https://www.patreon.com/ionicabizau
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
