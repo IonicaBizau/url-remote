@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save url-remote
+# Using npm
+npm install --save url-remote
+
+# Using yarn
+yarn add url-remote
 ```
 
 
@@ -45,7 +49,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -91,7 +97,8 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`lwipify`](https://github.com/IonicaBizau/lwipify#readme)—Convert images in lwip objects.
- - [`rucksack`](https://github.com/IonicaBizau/rucksack-new#readme)—JavaScript and CSS bundler.
+ - [`rucksack`](https://github.com/Bloggify/rucksack#readme) (by Bloggify)—JavaScript and CSS bundler.
+ - [`rucksack-lite`](https://github.com/Bloggify/rucksack-lite#readme) (by Bloggify)—The base class for the Rucksack JavaScript and CSS bundler.
 
 ## :sparkles: Related
 
