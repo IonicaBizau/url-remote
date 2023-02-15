@@ -183,9 +183,9 @@ Thanks! :heart:
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `rucksack-lite`
  - `rucksack`
  - `lwipify`
+ - `rucksack-lite`
 
 
 
