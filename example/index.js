@@ -14,3 +14,6 @@ console.log(isRemote("git@github.com:IonicaBizau/url-local.git"));
 
 console.log(isRemote(42));
 // false
+
+console.log(isRemote("C:\\Users\\IonicaBizau\\Desktop\\file.txt"));
+// false
