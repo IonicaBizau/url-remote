@@ -90,7 +90,11 @@ console.log(isRemote("git@github.com:IonicaBizau/url-local.git"));
 
 console.log(isRemote(42));
 // false
+
+console.log(isRemote("C:\\Users\\IonicaBizau\\Desktop\\file.txt"));
+// false
 ```
+
 
 
 
@@ -111,6 +115,8 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 
 
 
@@ -183,8 +189,8 @@ Thanks! :heart:
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `rucksack`
  - `lwipify`
+ - `rucksack`
  - `rucksack-lite`
 
 
