@@ -1,6 +1,6 @@
 {
   "name": "url-remote",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Checks if a given url is a remote url or not.",
   "main": "lib/index.js",
   "directories": {
@@ -44,6 +44,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
